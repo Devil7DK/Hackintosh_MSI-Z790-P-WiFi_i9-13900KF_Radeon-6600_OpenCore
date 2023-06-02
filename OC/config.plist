@@ -852,7 +852,7 @@
                 <key>ProcessorType</key>
                 <integer>3842</integer>
                 <key>ROM</key>
-                <data>dFY8NE2x</data>
+                <data>dWo5zOnY</data>
                 <key>SpoofVendor</key>
                 <true/>
                 <key>SystemMemoryStatus</key>
@@ -862,7 +862,7 @@
                 <key>SystemSerialNumber</key>
                 <string>F5KYQPYPP7QM</string>
                 <key>SystemUUID</key>
-                <string>D8121AD1-7BB7-4381-90B8-2C1E583FD918</string>
+                <string>AF9430DF-F512-4B8C-8D9F-7FED3E64C54B</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
